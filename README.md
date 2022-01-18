@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+[![Update gist with WakaTime stats](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml)
+
 <p align="center">
   <a href="https://github.com/zengjiapei3000?tab=followers"><img src="https://img.shields.io/github/followers/zengjiapei3000?style=social"></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zengjiapei3000&show_icons=true&theme=prussian" />
 
-[![Update gist with WakaTime stats](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml)
 
 <!--
 **zengjiapei3000/zengjiapei3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
