@@ -5,6 +5,9 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zengjiapei3000&show_icons=true&theme=prussian" />
+
+[![Update gist with WakaTime stats](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml)
+
 <!--
 **zengjiapei3000/zengjiapei3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
