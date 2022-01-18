@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 [![Update gist with WakaTime stats](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml)
+
 <p align="center">
+</p>
+
+<p>
   <a href="https://github.com/zengjiapei3000?tab=followers"><img src="https://img.shields.io/github/followers/zengjiapei3000?style=social"></a>
 </p>
 
