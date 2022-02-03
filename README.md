@@ -11,6 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zengjiapei3000&show_icons=true&theme=prussian" />
 
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 <!--
 **zengjiapei3000/zengjiapei3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
