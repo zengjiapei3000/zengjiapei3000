@@ -11,6 +11,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zengjiapei3000&show_icons=true&theme=prussian" />
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/zengjiapei3000/zengjiapei3000/output/github-contribution-grid-snake.svg)
+
+
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 <!--
