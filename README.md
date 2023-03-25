@@ -2,6 +2,8 @@
 
 [![Update gist with WakaTime stats](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/zengjiapei3000/waka-box/actions/workflows/schedule.yml)
 
+![Codewars](https://github.r2v.ch/codewars?user=zengjiapei3000&top_languages=true)
+
 <p align="center">
 </p>
 
